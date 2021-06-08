@@ -1,0 +1,29 @@
+{
+  "name": "module09-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/togyzbaym/module09-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/togyzbaym/module09-1/issues"
+  },
+  "homepage": "https://github.com/togyzbaym/module09-1#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.14.4",
+    "joi": "^17.4.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
